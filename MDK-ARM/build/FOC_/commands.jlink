@@ -1,0 +1,6 @@
+r
+halt
+loadfile "c:\Users\32658\Desktop\Project\Cubemx Space\FOC_\MDK-ARM\build\FOC_\FOC_.hex"
+r
+go
+exit
